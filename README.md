@@ -1,7 +1,7 @@
 # Gate-Controlled Conductance Quantisation in Semiconductors
 
 ## Overview
-This repository contains my final year project, which investigates gate-controlled conductance quantisation in quantum point contacts (QPCs) using a MATLAB-based simulation framework. By modelling a smooth saddle-point potential, the project explores how discrete conductance steps emerge from quantum confinement in one-dimensional channels.
+This repository contains my 3rd year dissertation project, which investigates gate-controlled conductance quantisation in quantum point contacts (QPCs) using a MATLAB-based simulation framework. By modelling a smooth saddle-point potential, the project explores how discrete conductance steps emerge from quantum confinement in one-dimensional channels.
 
 Key goals achieved include:
 - Modelling electron transport in a saddle-point potential using MATLAB  
